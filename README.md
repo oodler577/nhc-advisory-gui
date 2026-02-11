@@ -5,7 +5,7 @@ Features:
 - load latest NHC storms JSON (Easter Pac, Central Pac, Atlantic basins)
 - load some archives from past years, list files and advisories
 - double click URL to copy to clipboard
-- double clicking `.json` URLs puts it into the _Address_ bar, clikc `Load` to bring up JSON tree
+- double clicking `.json` URLs puts it into the _Address_ bar, click `Load` to bring up JSON tree
 - double click URLs in JSON tree to download in seperate program: `.html`, `.zip`, `.kmz`, `.dat`, `.fst`, etc
 
 **Full Changelog**: https://github.com/StormSurgeLive/nhc-advisory-gui/compare/v0.2.0-alpha...v1.0
